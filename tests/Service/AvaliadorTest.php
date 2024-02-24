@@ -126,6 +126,6 @@ class AvaliadorTest extends TestCase
             [$this->leilaoEmOrdemCrescente()],
             [$this->leilaoEmOrdemDecrescente()],
             [$this->leilaoEmOrdemAleatoria()],
-            ];
+        ];
     }
 }
